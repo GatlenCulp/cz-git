@@ -76,5 +76,15 @@
     "scss",
     "pcss",
     "postcss"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "statusBar.background": "#28632b",
+    "statusBar.foreground": "#ffffff",
+    "statusBarItem.hoverBackground": "#327e36",
+    "activityBar.background": "#352A34",
+    "titleBar.activeBackground": "#4A3B49",
+    "titleBar.activeForeground": "#FBFAFB"
+  }
 }

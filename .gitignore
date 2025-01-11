@@ -24,3 +24,5 @@ lib/
 *.test.d.ts
 *.test.js.map
 coverage
+
+.history

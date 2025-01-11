@@ -74,7 +74,7 @@ export interface CommitizenGitOptions {
      * Choose the AI model you want to use
      *
      * @see https://platform.openai.com/docs/models/model-endpoint-compatibility => /v1/chat/completions
-     * @example "gpt-3.5-turbo" | "gpt-4" | "gpt-4o" | "gpt-4o-mini"
+     * @example "gpt-4o" | "gpt-4o-mini" | "o1" | "o1-mini"
      * @default "gpt-4o-mini"
      */
     aiModel?: string
