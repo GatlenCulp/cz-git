@@ -58,7 +58,7 @@ export interface CommitizenGitOptions {
 
     /**
      * Use OpenAI to auto generate short description for commit message
-     *
+     
      * @default false
      */
     useAI?: boolean
